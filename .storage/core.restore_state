@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "last_seen": "2020-07-24T05:23:42.028421+00:00",
+            "state": {
+                "attributes": {
+                    "editable": true,
+                    "friendly_name": "Diego",
+                    "id": "diego",
+                    "user_id": "0552aaf13d224e499b155e05cfdc24d2"
+                },
+                "context": {
+                    "id": "f3816fdc4e9c42b392c8d9d1398aa061",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.diego",
+                "last_changed": "2020-07-24T03:53:31.964980+00:00",
+                "last_updated": "2020-07-24T03:53:42.024628+00:00",
+                "state": "unknown"
+            }
+        },
+        {
+            "last_seen": "2020-07-24T05:23:42.028421+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "D",
+                    "source_type": "gps"
+                },
+                "context": {
+                    "id": "3e499a7fa3b04d1da087090daa32357b",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "device_tracker.d",
+                "last_changed": "2020-07-24T03:53:35.758887+00:00",
+                "last_updated": "2020-07-24T03:53:35.758887+00:00",
+                "state": "unknown"
+            }
+        }
+    ],
+    "key": "core.restore_state",
+    "version": 1
+}

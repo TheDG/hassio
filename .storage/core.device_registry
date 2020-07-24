@@ -1,0 +1,30 @@
+{
+    "data": {
+        "deleted_devices": [],
+        "devices": [
+            {
+                "area_id": null,
+                "config_entries": [
+                    "f919ece7147a4799a801a0427fb29c0f"
+                ],
+                "connections": [],
+                "entry_type": null,
+                "id": "1033fe4630954de6bc5342a99d32860c",
+                "identifiers": [
+                    [
+                        "mobile_app",
+                        "683066E8-70C0-446F-8DD9-81C9F1E55FC8"
+                    ]
+                ],
+                "manufacturer": "Apple",
+                "model": "iPhone 6s",
+                "name": "D",
+                "name_by_user": null,
+                "sw_version": "13.5.1",
+                "via_device_id": null
+            }
+        ]
+    },
+    "key": "core.device_registry",
+    "version": 1
+}

@@ -1,0 +1,20 @@
+
+# Configure a default setup of Home Assistant (frontend, api, etc)
+default_config:
+wake_on_lan:
+
+# Text to speech
+tts:
+  - platform: google_translate
+
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml
+
+samsungtv:
+  - host: 192.168.1.253
+    turn_on_action:
+      - service: wake_on_lan.send_magic_packet
+        data:
+          mac: "28:39:5e:6d:4f:5e"  

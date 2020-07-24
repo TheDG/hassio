@@ -1,0 +1,24 @@
+{
+    "data": {
+        "areas": [
+            {
+                "id": "7f9ac8fd3d314cbf8ca80a7408f0c897",
+                "name": "Living Room"
+            },
+            {
+                "id": "923fc7bb24bd4de9a231ec41a5fd3014",
+                "name": "Kitchen"
+            },
+            {
+                "id": "ce36983524344cc99a59b1ac9eccb6af",
+                "name": "Bedroom"
+            },
+            {
+                "id": "562d74e17e114d15ba946105f8bcc845",
+                "name": "Upstairs Living Room"
+            }
+        ]
+    },
+    "key": "core.area_registry",
+    "version": 1
+}

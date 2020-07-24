@@ -1,0 +1,70 @@
+{
+    "data": {
+        "entries": [
+            {
+                "connection_class": "cloud_poll",
+                "data": {
+                    "track_home": true
+                },
+                "domain": "met",
+                "entry_id": "d20f030579c541ebac09ec7939a23076",
+                "options": {},
+                "source": "onboarding",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "Home",
+                "unique_id": null,
+                "version": 1
+            },
+            {
+                "connection_class": "cloud_push",
+                "data": {},
+                "domain": "ios",
+                "entry_id": "ee310366d0a74edbb24eed3d477f9c6f",
+                "options": {},
+                "source": "user",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "Home Assistant iOS",
+                "unique_id": "ios",
+                "version": 1
+            },
+            {
+                "connection_class": "cloud_push",
+                "data": {
+                    "app_data": {
+                        "push_token": "cnbU-PW64khwuzivcOuBQV:APA91bGYASd39hIha24thd6GKQB26e_3cWn7OZB06kbH4i0VfstMVyVCiMG352a1btHSHh46er_1w9tCIjgB7ZK2P5d9z4oAH4BwLC24QoWbTN7nIykuK2e0Cjjr_2hYZYzgkjQ1rjhk",
+                        "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification"
+                    },
+                    "app_id": "io.robbie.HomeAssistant",
+                    "app_name": "Home Assistant",
+                    "app_version": "2020.4 (8)",
+                    "device_id": "683066E8-70C0-446F-8DD9-81C9F1E55FC8",
+                    "device_name": "D",
+                    "manufacturer": "Apple",
+                    "model": "iPhone 6s",
+                    "os_name": "iOS",
+                    "os_version": "13.5.1",
+                    "secret": "b2548b539685ef01d57abd28dd311f2efa3193f065a0be64c464c2fc76807e72",
+                    "supports_encryption": true,
+                    "user_id": "0552aaf13d224e499b155e05cfdc24d2",
+                    "webhook_id": "8ad5a87bbbc8ecb1276a9aca125fc77bbc26ea1c40ef30e28edb0c48de9dbe33"
+                },
+                "domain": "mobile_app",
+                "entry_id": "f919ece7147a4799a801a0427fb29c0f",
+                "options": {},
+                "source": "registration",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "D",
+                "unique_id": "io.robbie.HomeAssistant-683066E8-70C0-446F-8DD9-81C9F1E55FC8",
+                "version": 1
+            }
+        ]
+    },
+    "key": "core.config_entries",
+    "version": 1
+}

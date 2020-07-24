@@ -1,0 +1,1 @@
+2020-07-23 23:55:56 ERROR (MainThread) [homeassistant.components.media_player] Entity id already exists - ignoring: media_player.samsung_qn65q8cam. Platform samsungtv does not generate unique IDs
